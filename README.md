@@ -1,1 +1,1 @@
-basic shell commands
+Shell, init files, variables and expansions
